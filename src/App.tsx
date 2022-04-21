@@ -95,7 +95,7 @@ function App() {
               <TableCell align="right" sx={{ border: 1 }}>Email</TableCell>
               <TableCell align="right" sx={{ border: 1 }}>Delete</TableCell>
               <TableCell align="right" sx={{ border: 1 }}>Edit</TableCell>
-              <TableCell align="right" sx={{ border: 1 }}>Edit</TableCell>
+              <TableCell align="right" sx={{ border: 1 }}>Complete</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
